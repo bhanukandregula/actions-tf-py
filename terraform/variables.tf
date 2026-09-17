@@ -15,3 +15,5 @@ variable "service_name" {
 variable "image" {
   type = string
 }
+
+# Logs
